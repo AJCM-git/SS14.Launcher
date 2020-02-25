@@ -1,0 +1,15 @@
+"appbuild"
+{
+	"appid"	"1255460"
+	"desc" "Linux Build"
+	"buildoutput" "./output/"
+	"contentroot" "./content/"
+	"setlive"	""
+	"preview" "0"
+	"local"	""
+	
+	"depots"
+	{
+		"1255462" "depot_build_linux.vdf"
+	}
+} 

@@ -1,0 +1,15 @@
+"appbuild"
+{
+	"appid"	"1255460"
+	"desc" "macOS Build"
+	"buildoutput" "./output/"
+	"contentroot" "./content/"
+	"setlive"	""
+	"preview" "0"
+	"local"	""
+	
+	"depots"
+	{
+		"1255463" "depot_build_macos.vdf"
+	}
+} 
